@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=header"/>
 
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCenciarelli&layout=compact&hide_border=true&title_color=ffd700&text_color=ffd700&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiovannaCenciarelli&bg_color=000000&color=ffd700&line=ff69b4&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiovannaCenciarelli&bg_color=000000&color=ffd700&line=ffd700&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GiovannaCenciarelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -52,4 +52,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiovannaCenciarelli}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/> 
