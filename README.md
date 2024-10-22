@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Giovanna+Cenciarelli;I'm+19+years+old;I+am+from+Carapicuíba,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO+AO+MEU+GIT+HUB,+ONDE+ESTUDO+FAÇO+COISAS+SEM+NEXO,+MAS+POR+DIVERSÃO.+BJSS!)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GiovannaCenciarelli&show_icons=true&count_private=true&hide_border=true&title_color=ff1493&icon_color=ff1493&text_color=c9d1d9&bg_color=0d1117" alt="Giovanna Cenciarelli github stats" /> 
