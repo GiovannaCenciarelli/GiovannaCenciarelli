@@ -50,7 +50,7 @@
 <div align="center">
   <br>
   <p align="center">
-    <a href="#" style="display:inline-block; padding: 15px; background-color: #ffd700; color: black; border: none; border-radius: 8px; text-decoration: none; animation: blink 1s infinite;">CLIQUE AQUI</a>
+    <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 15px; background-color: #ffd700; color: black; border: none; border-radius: 8px; text-decoration: none; width: 200px; text-align: center; animation: blink 1s infinite;">CLIQUE AQUI</a>
   </p>  
 </div>
 
