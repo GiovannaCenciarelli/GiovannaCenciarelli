@@ -48,8 +48,25 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=ffd700)&nbsp;
 
 <div align="center">
+  <br>
+  <p align="center">
+    <a href="#" style="display:inline-block; padding: 15px; background-color: #ffd700; color: black; border: none; border-radius: 8px; text-decoration: none; animation: blink 1s infinite;">CLIQUE AQUI</a>
+  </p>  
+</div>
+
+<br>
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiovannaCenciarelli}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/> 
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
