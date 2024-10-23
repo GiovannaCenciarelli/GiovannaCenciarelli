@@ -48,10 +48,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=ffd700)&nbsp;
 
 <div align="center">
+  <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
   <br>
   <p align="center">
     <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 15px; background-color: #ffd700; color: black; border: none; border-radius: 8px; text-decoration: none; width: 200px; text-align: center; animation: blink 1s infinite;">NÃO CLIQUE AQUI</a>
   </p>  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.pinimg.com/236x/5e/83/38/5e8338eecb435044c8ff5dedc5c675bf.jpg" alt="Outra Imagem" width="100%" />
 </div>
 
 <br>
