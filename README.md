@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-<audio autoplay loop>
-  <source src="https://on.soundcloud.com/AsZZ6LDPVg32wuQi9" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
-
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
 </div>
