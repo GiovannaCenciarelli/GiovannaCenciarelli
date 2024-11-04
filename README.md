@@ -1,4 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+<audio id="myAudio" controls>
+  <source src="https://raw.githubusercontent.com/GiovannaCenciarelli/alealejandro (mp3cut.net).mp3" type="audio/mpeg">
+  Seu navegador não suporta a reprodução de áudio.
+</audio>
+
+<button onclick="document.getElementById('myAudio').play()" style="background-color: #ff69b4; color: white; border: none; padding: 10px; border-radius: 5px;">não clicar</button>
+
+
 
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
