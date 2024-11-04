@@ -1,40 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reproduzir Música</title>
-    <style>
-        button {
-            background-color: #ff69b4; /* Cor de fundo rosinha */
-            color: black; /* Cor do texto */
-            border: none; /* Sem borda */
-            border-radius: 8px; /* Bordas arredondadas */
-            padding: 20px; /* Espaçamento interno */
-            cursor: pointer; /* Cursor em forma de mão */
-            width: 150px; /* Largura do botão */
-            height: 150px; /* Altura do botão */
-            font-size: 16px; /* Tamanho da fonte */
-            text-align: center; /* Centraliza o texto */
-            display: inline-block; /* Faz o botão ficar na mesma linha */
-        }
-        button:hover {
-            background-color: #ff85b3; /* Cor do botão ao passar o mouse */
-        }
-    </style>
-</head>
-<body>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 <audio id="myAudio">
-    <source src="https://soundcloud.com/sloweddowntyoxy/lady-gaga-alejandro-slowed-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=3%3A19" type="audio/mpeg">
-    Seu navegador não suporta o elemento de áudio.
+  <source src="https://soundcloud.com/sloweddowntyoxy/lady-gaga-alejandro-slowed-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=3%3A19" type="audio/mpeg">
+
 </audio>
 
-<button onclick="document.getElementById('myAudio').play()">NÃO CLICAR</button>
-
-</body>
-</html>
-
+<button onclick="document.getElementById('myAudio').play()">não clicar</button>
 
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
