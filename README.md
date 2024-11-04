@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-<audio id="https://on.soundcloud.com/AsZZ6LDPVg32wuQi9" loop>
-  <source src="URL_DO_AUDIO_MP3" type="audio/mpeg">
+<!-- Adicionando o áudio com um botão para tocar -->
+<audio id="audio" loop>
+  <source src="https://on.soundcloud.com/AsZZ6LDPVg32wuQi9" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
