@@ -51,14 +51,7 @@
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
   <br>
   <p align="center">
-    <audio id="myAudio">
-        <source src="https://github.com/user-attachments/assets/94c1df11-2c8f-444b-9710-4a5ce7bd4893
-
-" type="audio/mpeg">
-        Seu navegador não suporta a reprodução de áudio.
-    </audio>
-
-    <button onclick="document.getElementById('myAudio').play()" style="display:inline-block; padding: 15px; background-color: #ff69b4; color: black; border: none; border-radius: 8px; text-decoration: none; width: 200px; text-align: center;">NÃO CLIQUE AQUI</button>
+    <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 15px; background-color: #ff69b4; color: black; border: none; border-radius: 8px; text-decoration: none; width: 200px; text-align: center; animation: blink 1s infinite;">NÃO CLIQUE AQUI</a>
   </p>  
 </div>
 
@@ -83,3 +76,15 @@
   50% { opacity: 0; }
   100% { opacity: 1; }
 }
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproduzir Áudio</title>
+</head>
+<body>
+
+    <audio id="myAudio">
+        <source src="https://github.com/user-attachments/assets/raw/main/94c1df11-2c8f-444b-9710-4a5ce7
