@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 <audio autoplay loop>
-  <source src="https://soundcloud.com/sloweddowntyoxy/lady-gaga-alejandro-slowed-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=3%3A19" type="audio/mpeg">
+  <source src="https://on.soundcloud.com/GZxxBN5BWGC2k7ya9" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
