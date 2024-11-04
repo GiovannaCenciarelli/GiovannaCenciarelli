@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 <audio id="myAudio">
-  <source src="https://example.com/sua-musica.mp3" type="audio/mpeg">
+  <source src="https://cf-media.sndcdn.com/Xr7LvxOylHCj.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vWHI3THZ4T3lsSENqLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzMwNzQxMzQzfX19XX0_&Signature=WmnuU26KYt~3HjUuioqaXeWhsntYaDq-DbgNC6V6egZdVQtgIwJZBhZD-NStwuycIEpw9gYwfs6c3nib8QLwdSPmPB9g-iYRafOLIT76szfA0wfCD78VQgQKVUx8xW1CVxGiueVNrXGPYf6agWcGzM~-vqtiTZEzZwryJsqCOtlJbXOlJgf4LKm36p0NnbSX3DKKLV0bQmSMTLCfdbXMgQBdI~vDxpwSmaoCtzU50GZQ0HVVGR-N1J2V3Pb83WfzM0dSYzugprcwKu0qSQ27qotAsdiy8Plr62-L~YQVUu2MVu-YamB6I2j6YvyhjQDVm0vYysxrlKckPicvLJ9lng__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
