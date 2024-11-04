@@ -18,6 +18,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GiovannaCenciarelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Potta+One&size=18&duration=3000&pause=500&color=F75B9C&background=FFFFFF00&center=true&width=435&lines=%F0%9F%99%8Ftranquilidade+%F0%9F%99%8F+sossego+%F0%9F%99%8F+paciencia+bjs%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg) 
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=ff69b4)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=ff69b4)&nbsp;
