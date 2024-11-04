@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 <audio id="myAudio">
-  <source src="https://soundcloud.com/sloweddowntyoxy/lady-gaga-alejandro-slowed-remix?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=3%3A19" type="audio/mpeg">
-
+  <source src="https://example.com/sua-musica.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
 </audio>
 
 <button onclick="document.getElementById('myAudio').play()">não clicar</button>
+
 
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
