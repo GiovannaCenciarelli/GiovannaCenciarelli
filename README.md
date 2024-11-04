@@ -43,7 +43,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
 
-https://github.com/user-attachments/assets/94c1df11-2c8f-444b-9710-4a5ce7bd4893
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=ff69b4)&nbsp;
@@ -78,3 +77,25 @@ https://github.com/user-attachments/assets/94c1df11-2c8f-444b-9710-4a5ce7bd4893
   0% { opacity: 1; }
   50% { opacity: 0; }
   100% { opacity: 1; }
+
+  <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproduzir Áudio</title>
+</head>
+<body>
+
+    <audio id="myAudio">
+        <source src="https://raw.githubusercontent.com/NOME_DO_USUÁRIO/NOME_DO_REPOSITORIO/main/NOME_DO_ARQUIVO.mp3" type="audio/mpeg">
+        Seu navegador não suporta a reprodução de áudio.
+    </audio>
+
+    <button onclick="document.getElementById('myAudio').play()" style="background-color: #ff69b4; color: white; border: none; padding: 10px; border-radius: 5px;">
+        Não clicar
+    </button>
+
+</body>
+</html>
+
