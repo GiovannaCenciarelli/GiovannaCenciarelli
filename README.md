@@ -1,13 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-<audio autoplay loop>
-  <source src="https://on.soundcloud.com/GZxxBN5BWGC2k7ya9" type="audio/mpeg">
+<audio id="https://on.soundcloud.com/AsZZ6LDPVg32wuQi9" loop>
+  <source src="URL_DO_AUDIO_MP3" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
+
+<button onclick="document.getElementById('audio').play()">Tocar Música</button>
 
 <div align="center">
   <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=GIT+HUB,+ONDE+FAÇO+COISAS+SEM+NEXO,+BJSS!)](https://git.io/typing-svg) 
 
