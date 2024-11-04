@@ -65,7 +65,7 @@
 <br>
 <div align="center">
   <br><p align="center"><b>sim</b></p>  
-  <p align="center"><img align="center" src="https://github.com/user-attachments/assets/raw/main/94c1df11-2c8f-444b-9710-4a5ce7bd4893" /></p> 
+  <p align="center"><img align="center" src="https://github.com/user-attachments/assets/94c1df11-2c8f-444b-9710-4a5ce7bd4893" /></p> 
 <br></div>
 
 
