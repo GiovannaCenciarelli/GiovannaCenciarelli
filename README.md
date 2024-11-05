@@ -17,7 +17,7 @@
   <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF de Christiane Torloni" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Felipa&size=50&pause=1000&color=F7079B&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FPaz%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FSossego%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Felipa&size=40&pause=1000&color=F7079B&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FPaz%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FSossego%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
 
 ### 💖 Aprendendo né : 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=ff69b4)&nbsp;
