@@ -18,10 +18,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GiovannaCenciarelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/christiane-torloni-torloni-torloni-news-stressed-gif-13934967" alt="GIF" />
+  <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
 </div>
 
 
