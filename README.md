@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
   <p align="center">
-    <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">Clique Aqui, mas Com Calma ✨</a>
+    <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">pao de forma artesano✨</a>
   </p>  
 </div>
 
