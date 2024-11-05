@@ -18,6 +18,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GiovannaCenciarelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+
+
+<div align="center">
+  <img src="https://tenor.com/pt-BR/view/christiane-torloni-torloni-torloni-news-stressed-gif-13934967" alt="GIF" />
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Potta+One&size=18&duration=3000&pause=500&color=F75B9C&background=FFFFFF00&center=true&width=435&lines=%F0%9F%99%8Ftranquilidade+%F0%9F%99%8F+sossego+%F0%9F%99%8F+paciencia+bjs%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg) 
 
 ### Main skills:
