@@ -17,7 +17,9 @@
   <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF de Christiane Torloni" />
 </div>
 
-### 💖 Aprendendo né mores: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Felipa&size=25&pause=1000&color=F7079B&width=435&lines=%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FPaz%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FSossego%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
+
+### 💖 Aprendendo né : 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=ff69b4)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=ff69b4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=ff69b4)&nbsp;
