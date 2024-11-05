@@ -11,7 +11,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaCenciarelli&layout=compact&hide_border=true&title_color=ff69b4&text_color=ff69b4&bg_color=0d1117" />
 </div>
 
-![Café Consumido](https://komarev.com/ghpvc/?username=GiovannaCenciarelli&label=Caf%C3%A9+Consumido&color=ff1493)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=ff1493&size=20&center=true&vCenter=true&lines=Programador+saudável+é+a+lenda!;while(true)+%7B+coffee();+%7D;Console.WriteLine('Cade+o+debug?');99.9%+de+chance+de+ser+bug;Coding+is+fun...+and+frustrating!)](https://github.com/GiovannaCenciarelli)
+
 
 
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GiovannaCenciarelli&bg_color=000000&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
