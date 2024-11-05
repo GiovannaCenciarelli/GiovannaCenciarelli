@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://emilijafilmreviews.wordpress.com/wp-content/uploads/2019/04/audrey.gif?w=775" alt="GIF" />
+  <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF" />
 </div>
 
 
