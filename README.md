@@ -39,7 +39,9 @@
 
 <div align="center">
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
-
+<div align="center">
+  ![GitHub Snake](https://raw.githubusercontent.com/GiovannaCenciarelli/GiovannaCenciarelli/master/github-snake.svg)
+</div>
 ---
 
 </div>
