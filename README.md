@@ -45,6 +45,9 @@
 </div>
 
 <div align="center">
+
+  ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=GiovannaCenciarelli.GiovannaCenciarelli)
+
 <br><p align="center"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiovannaCenciarelli}/count.svg" /></p> 
 <br></div>
