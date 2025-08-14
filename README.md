@@ -50,3 +50,18 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovannaCenciarelli/GiovannaCenciarelli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovannaCenciarelli/GiovannaCenciarelli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovannaCenciarelli/GiovannaCenciarelli/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://open.spotify.com/intl-it/album/5UNLwI7tWqt16bNTyl62aa?theme=dark&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+</div>
+
+###
