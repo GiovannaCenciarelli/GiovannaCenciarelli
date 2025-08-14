@@ -47,6 +47,10 @@
 </div>
 </div>
 
+<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2025/08/14/flamingtext_com_1755215512_459639285.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<br/>Logo Design by <a href="https://www.flamingtext.com/" >FlamingText.com</a>
+
+
 <div align="center">
 
   ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=GiovannaCenciarelli.GiovannaCenciarelli)
