@@ -15,9 +15,17 @@
 
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GiovannaCenciarelli&bg_color=000000&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF de Christiane Torloni" />
-</div>
+<!-- Tabela para organizar os GIFs lado a lado -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF de Christiane Torloni" />
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/l5igQzGPNvIAAAAM/duh-eye-roll.gif" alt="GIF Eye Roll" width="300"/>
+    </td>
+  </tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Felipa&size=40&pause=1000&color=F7079B&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FPaz%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FSossego%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
 
@@ -41,21 +49,10 @@
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
 ---
 
-<!-- GIF novo do eye-roll -->
-<div align="center">
-  <img src="https://media.tenor.com/l5igQzGPNvIAAAAM/duh-eye-roll.gif" alt="GIF Eye Roll" width="300"/>
-</div>
-</div>
-
 <a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2025/08/14/flamingtext_com_1755215512_459639285.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 
-
 <div align="center">
-
   ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=GiovannaCenciarelli.GiovannaCenciarelli)
-
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-
-
-
