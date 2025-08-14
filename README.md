@@ -47,6 +47,23 @@
   <p align="center">
     <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">pao de forma artesano✨</a>
   </p>  
+  ###  Habilidades Secretas:
+se é secreta nao vou falar né
+
+---
+
+###  Contagem Regressiva pro Próximo Show da Madonna:
+> "Em outra vida"
+![Countdown](https://img.shields.io/badge/Faltam_100000_dias_para_a_Madonna-ff69b4?style=for-the-badge&logo=music&logoColor=white)
+
+<div align="center">
+  <img src="https://br.pinterest.com/pin/10625749116952907/" width="350"/>
+
+</div>
+
+---
+
+
 </div>
 
 <div align="center">
