@@ -39,17 +39,8 @@
 
 <div align="center">
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
-  <p align="center">
-    <a href="https://br.pinterest.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">Meu Pinterest ✨</a>
-  </p>  
-  ###  Habilidades Secretas:
-se é secreta nao vou falar né
 
 ---
-
-###  Contagem Regressiva pro Próximo Show da Madonna:
-> "Em outra vida"
-![Countdown](https://img.shields.io/badge/Próximo_show_EM_BREVE_✨-ff69b4?style=for-the-badge&logo=music&logoColor=white)
 
 </div>
 
