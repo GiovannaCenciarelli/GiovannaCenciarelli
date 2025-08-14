@@ -39,11 +39,12 @@
 
 <div align="center">
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
-<div align="center">
-  ![GitHub Snake](https://raw.githubusercontent.com/GiovannaCenciarelli/GiovannaCenciarelli/master/github-snake.svg)
-</div>
 ---
 
+<!-- GIF novo do eye-roll -->
+<div align="center">
+  <img src="https://media.tenor.com/l5igQzGPNvIAAAAM/duh-eye-roll.gif" alt="GIF Eye Roll" width="300"/>
+</div>
 </div>
 
 <div align="center">
