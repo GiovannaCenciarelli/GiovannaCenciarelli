@@ -13,18 +13,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=ff1493&size=20&center=true&vCenter=true&lines=ainda+não+é+sexta;quero+café;+%7D;Console.WriteLine('Cade+o+onibus?');eu+estou+dormindo;ale+ale+jandro+dont+calll+my+name+dont+call+my+name)](https://github.com/GiovannaCenciarelli)
 
-
-
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GiovannaCenciarelli&bg_color=000000&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://media1.tenor.com/m/tEqIloPlswgAAAAd/christiane-torloni-torloni.gif" alt="GIF de Christiane Torloni" />
 </div>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Felipa&size=40&pause=1000&color=F7079B&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FPaz%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8FSossego%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
-
 
 ### 💖 Aprendendo né : 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=ff69b4)&nbsp;
@@ -45,7 +40,7 @@
 <div align="center">
   <img src="https://mobilidade.estadao.com.br/wp-content/uploads/2023/11/Suzana-Vieira-no-onibus.jpg" alt="Suzana Vieira" width="100%" />
   <p align="center">
-    <a href="https://letterboxd.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">pao de forma artesano✨</a>
+    <a href="https://br.pinterest.com/100ciarelli/" style="display:inline-block; padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 8px; text-decoration: none;">Meu Pinterest ✨</a>
   </p>  
   ###  Habilidades Secretas:
 se é secreta nao vou falar né
@@ -54,15 +49,7 @@ se é secreta nao vou falar né
 
 ###  Contagem Regressiva pro Próximo Show da Madonna:
 > "Em outra vida"
-![Countdown](https://img.shields.io/badge/Faltam_100000_dias_para_a_Madonna-ff69b4?style=for-the-badge&logo=music&logoColor=white)
-
-<div align="center">
-  <img src="https://br.pinterest.com/pin/10625749116952907/" width="350"/>
-
-</div>
-
----
-
+![Countdown](https://img.shields.io/badge/Próximo_show_EM_BREVE_✨-ff69b4?style=for-the-badge&logo=music&logoColor=white)
 
 </div>
 
@@ -71,4 +58,4 @@ se é secreta nao vou falar né
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiovannaCenciarelli}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
